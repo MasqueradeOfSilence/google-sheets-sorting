@@ -21,3 +21,10 @@ Items are sorted by due date and then priority. Recurring tasks, such as Leetcod
 - Discarded
 
 ![sample](https://github.com/MasqueradeOfSilence/google-sheets-sorting/blob/main/visual.png?raw=true)
+
+## Focus Areas:
+
+### P1: 
+
+- School
+- Work
