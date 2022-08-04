@@ -47,7 +47,7 @@ Items are sorted by due date and then priority. Recurring tasks, such as Leetcod
 - Fitness
 - Visualization
 - Clarinet
-- Piano and Singing
+- Piano and Vocals
 
 ### P4: 
 
