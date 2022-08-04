@@ -28,3 +28,19 @@ Items are sorted by due date and then priority. Recurring tasks, such as Leetcod
 
 - School
 - Work
+
+### P2:
+
+- Computer Science (General)
+- Computer Graphics
+- Cybersecurity
+- 2D Art
+- 3D Art
+- 50% Rule
+- Fiction Writing and Poetry
+- Theme Park Design
+- Math and Physics
+
+### P3: 
+
+- Other Writing
